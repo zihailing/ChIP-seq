@@ -1,0 +1,3 @@
+#!/bin/sh
+/psc/program/install/bowtie/bowtie --best -X 700 --chunkmbs 2000 -S /psc/home/zihailing/zihailing/YHH_HJG_20151127/TAIR10_chr_1_5.fas -1 /psc/home/zihailing/zihailing/YHH_HXG_20160415/clean_data/ash2-3_R1.fastq -2 /psc/home/zihailing/zihailing/YHH_HXG_20160415/clean_data/ash2-3_R2.fastq /psc/home/zihailing/zihailing/YHH_HXG_20160415/ash2-3.sam
+#/psc/program/install/bowtie/bowtie --best -X 700 --chunkmbs 2000 -S /psc/home/zihailing/zihailing/YHH_HJG_20151127/TAIR10_chr_1_5.fas -1 /psc/home/zihailing/zihailing/YHH_HXG_20160415/clean_data/ash2-input-3_R1.fastq -2 /psc/home/zihailing/zihailing/YHH_HXG_20160415/clean_data/ash2-input-3_R2.fastq /psc/home/zihailing/zihailing/YHH_HXG_20160415/ash2-input-3.sam
